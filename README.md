@@ -1,5 +1,7 @@
 <video src="./assets/preview.mov" controls></video>
 
+[点击查看 demo 视频](./assets/preview.mov)
+
 # Flutter 开发模版说明
 
 ## 依赖项列表
